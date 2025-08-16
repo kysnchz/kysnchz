@@ -1,7 +1,7 @@
 ## Hi there I'm Kay 👋
 
-**Senior Analyst | Risck & Compliance | Data Analytics in Transition | Workflow Automation Enthusiast**
-Specializin in **Shareholding Disclosure and Risk Surveilance** with growing expertise in **data analytics and automation**
+## **Senior Analyst | Risck & Compliance | Data Analytics in Transition | Workflow Automation Enthusiast**
+## Specializin in **Shareholding Disclosure and Risk Surveilance** with growing expertise in **data analytics and automation**
 <!--
 **kysnchz/kysnchz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
